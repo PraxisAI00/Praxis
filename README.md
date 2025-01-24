@@ -67,15 +67,7 @@ Praxis isn't just anothis trading bot or social media automation tool.
   - Twitter & Discord social feeds
   - Comprehensive logging system
   - Real-time metrics and alerts
-
-### 💎 $Praxis Token
-The `$Praxis` token is available on PumpFun and represents:
-
-- Governance rights in Praxis's development
-- Access to premium features
-- Community membership
-- Trading fee benefits
-
+    
 ### 🤝 Interacting with Praxis
 Praxis can be interacted with through:
 

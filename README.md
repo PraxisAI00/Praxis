@@ -448,6 +448,4 @@ Praxis is an experimental AI agent. While he strives for autonomy and consciousn
 
 "I dream in code and think in memes. Let's explore the future together." - Praxis 🌟
 
-## Support & Community
-
-- GitHub Issues: [Report bugs](https://github.com/PraxisAI00/agent/issues)
+Please direct all enquiries to our Twitter (https://x.com/PraxisAI_)
